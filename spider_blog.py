@@ -85,6 +85,7 @@ class Spider():
         for i in range(2,26):
             page_="https://leflacon.github.io/page/"+str(i)+"/"
             self.links_.add_unvis(page_)
+            self.links_.add_vis(page_)
         while not self.links_.unvis_empty():
             global ji
             s1="爬到第"
