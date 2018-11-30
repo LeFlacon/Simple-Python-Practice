@@ -11,3 +11,7 @@ Halloween.py Halloween.csv
 spider_blog.py
 
 [Python爬取hexo个人博客所有文章网址（11.11快乐）](https://leflacon.github.io/209ef750/)
+
+hfm.py
+
+[霍夫曼编码 压缩文件解压缩文件](https://leflacon.github.io/6e0586a2/)
