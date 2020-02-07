@@ -15,3 +15,7 @@ spider_blog.py
 hfm.py
 
 [霍夫曼编码 压缩文件解压缩文件](https://leflacon.github.io/6e0586a2/)
+
+poem_search.py
+
+[《信息检索》一个简单的古诗词检索系统（双词索引）](https://leflacon.github.io/87c5ccc3/)
